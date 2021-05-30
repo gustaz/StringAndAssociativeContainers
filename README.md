@@ -1,8 +1,8 @@
-#String ir asociatyvūs konteineriai
+# String ir asociatyvūs konteineriai
 
 Programa, skirta ištirti tekstui naudojant string ir asociatyvius (specifiškai - map) konteinerius.
 
-##Programos diegimas
+## Programos diegimas
 
 1. Parsisiųsti norimą programos versijos kodą iš releases;
 2. Kodą sukompiliuoti per komandinę eilutę arba pasirinktą IDE;
@@ -19,7 +19,7 @@ Naudojant MacOS, Linux, ar kitą UNIX sistemą:
 make -f MakeFile
 ```
 
-##Pagrindinės funkcijos
+## Pagrindinės funkcijos
 
 1) Sukompiliavus programą ir ją paleidus, ji automatiškai apdoroja jai suteiktą tekstą faile input.txt.
 2) Apdorodama tekstą programa visas raides padaro mažosiomis ir iš teksto ištraukia hipersaitus. (URL suradimas)
