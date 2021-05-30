@@ -29,4 +29,4 @@ make -f MakeFile
 6) Galų gale išvedamos cross-check lentelės kiekvienai paragrafai ir tada išvedama galutinė lentelė su visais skaitliukais.
 
 ## Versijos
-* [v1.0](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v0.1) Įgyvendintas esminis funkcionalumas
+* [v1.0](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v1.0) Įgyvendintas esminis funkcionalumas
