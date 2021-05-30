@@ -28,5 +28,5 @@ make -f MakeFile
 5) Kiekvienoje paragrafoje (paragrafas eina iki naujos eilutės) taip pat yra tikrinama, kuriose vietose pasikartoja tam tikri žodžiai. (cross-check)
 6) Galų gale išvedamos cross-check lentelės kiekvienai paragrafai ir tada išvedama galutinė lentelė su visais skaitliukais.
 
-##Versijos
+## Versijos
 * [v1.0](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v0.1) Įgyvendintas esminis funkcionalumas
