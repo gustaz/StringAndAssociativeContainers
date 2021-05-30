@@ -10,10 +10,15 @@
 int main()
 {
     std::string line;
-
     std::ifstream in("input.txt");
+    
+    if(!in.good())
+    {
+        std::cout << "Failas nerastas! Ar tikrai egzistuoja failas, pavadinimu input.txt?";
+        return 1;
+    }
+    
     std::ofstream out("output.txt");
-
     std::map<std::string, int> occurences;
     std::map<std::string, std::vector<int>> crossCheck;
     std::vector<std::string> url;
@@ -21,7 +26,6 @@ int main()
     int n = 0;
     while (!in.eof())
     {
-        
         crossCheck.clear();
         n++;
         getline(in, line);
@@ -34,11 +38,9 @@ int main()
         {
             numberedWord++;
             bool isURL = false;
-            //if (n == 2 && numberedWord == 16) std::cout << word << std::endl; // ok
             std::transform(word.begin(), word.end(), word.begin(),
                 [](unsigned char c) { return std::tolower(c); });
 
-            //if (n == 2 && numberedWord == 16) std::cout << word << std::endl; // ok
             if (word.find("https://") != std::string::npos || word.find("www.") != std::string::npos)
             {
                 if (word[word.length() - 1] == ',' || word[word.length() - 1] == '.')
@@ -46,7 +48,6 @@ int main()
                 url.push_back(word);
                 word.clear();
             }
-            //if (n == 2 && numberedWord == 16) std::cout << word[word.length() - 1] << std::endl; // ok
             if (isdigit(word[0]) || ispunct(word[0]))
             {
                 if (word.find("th") == std::string::npos)
@@ -57,7 +58,6 @@ int main()
                             i = -1;
                         }
             }
-            
 
             if (word[word.length() - 2] == '\'')
                 word.resize(word.length() - 2);
@@ -108,5 +108,10 @@ int main()
     out << "Surasti URL: " << std::endl;
         for (auto &elem : url)
             out << elem << std::endl;
+        
+    in.close();
+    out.close();
     return 0;
 }
+
+
