@@ -6,6 +6,7 @@
 #include <map>
 #include <vector>
 #include <string>
+#include <regex>
 
 int main()
 {
@@ -41,7 +42,7 @@ int main()
             std::transform(word.begin(), word.end(), word.begin(),
                 [](unsigned char c) { return std::tolower(c); });
 
-            if (word.find("https://") != std::string::npos || word.find("www.") != std::string::npos)
+            if(std::regex_match(word, std::regex("(((http|https)://)?www\\.)?[a-zA-Z0-9@:%._\\+~#?&//=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%._\\+~#?&//=]*)"))) 
             {
                 if (word[word.length() - 1] == ',' || word[word.length() - 1] == '.')
                     word.resize(word.length() - 1);
