@@ -30,3 +30,4 @@ make -f MakeFile
 
 ## Versijos
 * [v1.0](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v1.0) Įgyvendintas esminis funkcionalumas
+* [v1.1](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v1.1) Pakeistas hipersaitų paieškos algoritmas iš aklo į REGEX.
