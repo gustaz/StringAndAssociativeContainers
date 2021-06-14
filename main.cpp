@@ -48,6 +48,7 @@ int main()
                     word.resize(word.length() - 1);
                 url.push_back(word);
                 word.clear();
+                numberedWord--;
             }
             if (isdigit(word[0]) || ispunct(word[0]))
             {
