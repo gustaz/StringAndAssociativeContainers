@@ -12,13 +12,24 @@ int main()
 {
     std::string line;
     std::ifstream in("input.txt");
-    
+	
     if(!in.good())
     {
         std::cout << "Failas nerastas! Ar tikrai egzistuoja failas, pavadinimu input.txt?";
         return 1;
     }
-    
+	
+	std::string selection;
+	
+	std::cout << "Pasirinkite zodi, kuris bus isrenkamas isvesties metu: "; 
+	std::cin >> selection;
+
+	if(selection.empty())
+		std::cout << "Nepasirinkote zodzio! Programa tes veikla, taciau isvesties gale nebus atrenkami Jusu pasirinkti zodziai.";
+
+	std::transform(selection.begin(), selection.end(), selection.begin(),
+		[](unsigned char c) { return std::tolower(c); });
+
     std::ofstream out("output.txt");
     std::map<std::string, int> occurences;
     std::map<std::string, std::vector<int>> crossCheck;
@@ -50,6 +61,7 @@ int main()
                 word.clear();
                 numberedWord--;
             }
+				
             if (isdigit(word[0]) || ispunct(word[0]))
             {
                 if (word.find("th") == std::string::npos)
@@ -76,14 +88,16 @@ int main()
                         i = word.length();
                     }
             }
+			
+			if(word == selection)
+			url.push_back(word);
             
             if (!word.empty())
             {
                 crossCheck.insert({ word, {0} });
                 crossCheck[word].push_back(numberedWord);
-
-                occurences.insert({ word, 1 });
-                occurences[word]++;
+				
+				occurences[word]++;
             }
         }
 
@@ -103,11 +117,10 @@ int main()
     
     out << "Bendras zodziu skaicius: " << std::endl;
     for (auto elem : occurences)
-        if (elem.second > 1)
-            out << elem.first << " " << elem.second << std::endl;
+        out << elem.first << " " << elem.second << std::endl;
     out << std::endl;
 
-    out << "Surasti URL: " << std::endl;
+    out << "Surasti URL ir zodziai " << selection << " pagal eiliskuma:" << std::endl;
         for (auto &elem : url)
             out << elem << std::endl;
         

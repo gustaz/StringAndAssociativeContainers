@@ -1,0 +1,442 @@
+1-osios eilutes zodziu numeriai: 
+13th 3 
+a 15 45 73 
+all 82 
+alus 37 42 
+american 6 
+an 5 
+and 23 68 114 117 
+as 44 86 
+at 47 130 
+be 66 
+books 20 
+box-office 132 
+boy 46 
+by 111 119 
+camp 48 57 
+cash 101 
+character 33 
+comic 19 
+comprises 10 
+created 99 
+crystal 49 
+cunningham 122 
+decades 59 
+directed 118 
+drowned 43 
+due 51 
+either 87 
+featured 80 
+fictional 32 
+film 98 
+films 13 85 124 
+focuses 29 
+for 72 93 
+franchise 8 27 139 151 
+friday 1 
+games 22 
+grossed 126 
+halloween 107 144 150 
+have 41 125 
+highest-grossing 137 
+horror 7 138 
+in 81 102 140 152 
+is 4 63 69 79 
+it 134 
+jason 34 78 
+killer 89 
+killings 95 
+lake 50 62 
+later 60 
+mainly 28 
+mass 76 
+merchandise 25 
+miller 113 
+million 129 
+motivation 92 
+murders 77 
+negligence 54 
+novels 18 
+of 55 75 83 106 
+on 30 103 
+or 90 
+original 97 
+over 127 
+produced 116 
+putting 148 
+released 147 
+rumored 64 
+s 121 
+sean 120 
+series 17 74 
+setting 71 
+slasher 12 
+spot 155 
+staff 58 
+success 105 
+television 16 
+that 9 
+the 2 26 31 53 56 61 70 84 88 91 94 96 104 123 131 136 141 149 153 
+thought 39 
+tie-in 24 
+to 40 52 65 100 
+top 154 
+twelve 11 
+until 143 
+victor 112 
+video 21 
+voorhees 35 
+was 38 109 115 135 146 
+who 36 
+world 142 
+worldwide 133 
+written 110 
+
+2-osios eilutes zodziu numeriai: 
+13th 16 72 
+a 4 93 103 111 
+adapted 66 75 
+addition 101 
+additional 98 
+after 19 
+also 9 
+alus 58 
+and 48 125 
+any 34 
+as 92 
+authors 79 
+bad 46 
+based 41 
+book 128 
+but 38 
+by 33 61 76 
+character 35 107 
+cinema 88 122 
+comic 127 
+connected 29 
+created 40 
+crossover 104 
+cunningham 90 
+curses 49 
+developed 10 
+elm 114 
+featuring 130 
+film 52 105 117 
+films 8 64 99 
+four 63 
+franchise 32 57 82 
+frank 1 
+freddy 108 
+friday 14 70 
+from 110 
+https 89 116 
+idea 44 
+iii 74 
+in 100 
+into 67 
+jason 22 131 
+jr 3 
+krueger 109 
+line 87 121 
+lives 23 
+luck 47 
+mancuso 2 
+new 86 120 
+nightmare 112 
+not 28 
+novellas 124 
+novels 68 
+of 6 45 
+on 42 113 
+or 36 
+oversee 96 
+owned 60 
+paramount 20 
+paramount, 62 
+part 73 
+producer 5 94 
+published 133 
+released 21 
+returned 91 
+separate 78 
+series 18 26 53 118 129 
+setting 37 
+show 13 
+sold 84 
+street 115 
+symbolized 54 
+television 12 25 
+the 7 11 15 17 24 31 43 51 56 71 81 
+thirteen 123 
+to 30 85 95 102 
+two 77 97 
+under 119 
+various 126 
+was 27 39 59 83 
+were 65 132 
+when 80 
+which 50 
+while 55 
+with 69 106 
+
+3-osios eilutes zodziu numeriai: 
+13th 11 60 76 
+a 51 
+also 31 
+although 1 
+alus 68 71 
+america—not 22 
+and 37 67 91 
+artwork 77 
+because 32 
+become 82 
+bodies 72 
+but 30 
+considered 13 
+costumes 66 
+created 55 
+critics 8 
+culture 45 93 
+extensive 35 
+fanbase 52 
+fashioned 62 
+films 3 29 61 
+for 24 
+franchise 47 
+franchises 20 
+friday 9 58 74 
+generated 50 
+has 49 81 
+have 54 
+hockey 79 
+horror 90 
+images 88 
+in 21 43 89 
+is 12 
+jason 64 78 
+mask 80 
+media 19 
+merchandising 36 
+most 17 86 
+not 5 
+of 15 27 33 84 
+one 14 83 
+only 23 
+own 57 
+popular 6 44 92 
+popularity 48 
+recognizable 87 
+references 39 
+repeated 38 
+replica 63 
+series 42 
+success 26 
+successful 18 
+tattooed 69 
+the 2 10 16 25 28 34 41 46 59 75 85 
+their 56 70 
+to 40 
+voorhees 65 
+were 4 
+who 53 
+with 7 73 
+
+Bendras zodziu skaicius: 
+13th 6
+a 8
+adapted 2
+addition 1
+additional 1
+after 1
+all 1
+also 2
+although 1
+alus 5
+american 1
+america—not 1
+an 1
+and 9
+any 1
+artwork 1
+as 3
+at 2
+authors 1
+bad 1
+based 1
+be 1
+because 1
+become 1
+bodies 1
+book 1
+books 1
+box-office 1
+boy 1
+but 2
+by 5
+camp 2
+cash 1
+character 3
+cinema 2
+comic 2
+comprises 1
+connected 1
+considered 1
+costumes 1
+created 3
+critics 1
+crossover 1
+crystal 1
+culture 2
+cunningham 2
+curses 1
+decades 1
+developed 1
+directed 1
+drowned 1
+due 1
+either 1
+elm 1
+extensive 1
+fanbase 1
+fashioned 1
+featured 1
+featuring 1
+fictional 1
+film 4
+films 9
+focuses 1
+for 3
+four 1
+franchise 8
+franchises 1
+frank 1
+freddy 1
+friday 6
+from 1
+games 1
+generated 1
+grossed 1
+halloween 3
+has 2
+have 3
+highest-grossing 1
+hockey 1
+horror 3
+https 2
+idea 1
+iii 1
+images 1
+in 8
+into 1
+is 5
+it 1
+jason 6
+jr 1
+killer 1
+killings 1
+krueger 1
+lake 2
+later 1
+line 2
+lives 1
+luck 1
+mainly 1
+mancuso 1
+mask 1
+mass 1
+media 1
+merchandise 1
+merchandising 1
+miller 1
+million 1
+most 2
+motivation 1
+murders 1
+negligence 1
+new 2
+nightmare 1
+not 2
+novellas 1
+novels 2
+of 10
+on 4
+one 2
+only 1
+or 2
+original 1
+over 1
+oversee 1
+own 1
+owned 1
+paramount 1
+paramount, 1
+part 1
+popular 3
+popularity 1
+produced 1
+producer 2
+published 1
+putting 1
+recognizable 1
+references 1
+released 2
+repeated 1
+replica 1
+returned 1
+rumored 1
+s 1
+sean 1
+separate 1
+series 8
+setting 2
+show 1
+slasher 1
+sold 1
+spot 1
+staff 1
+street 1
+success 2
+successful 1
+symbolized 1
+tattooed 1
+television 3
+that 1
+the 41
+their 2
+thirteen 1
+thought 1
+tie-in 1
+to 9
+top 1
+twelve 1
+two 2
+under 1
+until 1
+various 1
+victor 1
+video 1
+voorhees 2
+was 9
+were 3
+when 1
+which 1
+while 1
+who 2
+with 4
+world 1
+worldwide 1
+written 1
+
+Surasti URL ir zodziai popular pagal eiliskuma:
+https://en.wikipedia.org/wiki/horror_fiction
+https://en.wikipedia.org/wiki/horror_fiction
+https://en.wikipedia.org/wiki/horror_fiction
+https://en.wikipedia.org/wiki/horror_fiction
+www.wikipedia.org/wiki/slasher_film
+www.wikipedia.org/wiki/friday_the_13th:_the_series
+https://en.wikipedia.org/wiki/friday_the_13th_part_vi:_jason_lives
+popular
+vu.lt
+trumpojimedia.fr
+popular
+popular
