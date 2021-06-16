@@ -117,7 +117,8 @@ int main()
     
     out << "Bendras zodziu skaicius: " << std::endl;
     for (auto elem : occurences)
-        out << elem.first << " " << elem.second << std::endl;
+		if(elem.second > 1)
+			out << elem.first << " " << elem.second << std::endl;
     out << std::endl;
 
     out << "Surasti URL ir zodziai " << selection << " pagal eiliskuma:" << std::endl;
