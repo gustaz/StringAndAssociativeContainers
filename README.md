@@ -34,3 +34,4 @@ make -f MakeFile
 * [v1.1](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v1.1) Pakeistas hipersaitų paieškos algoritmas iš aklo į REGEX.
 * [v1.1.1](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v1.1.1) Žodžių kiekio apskaičiavimo sutvarkyta klaida.
 * [v1.2](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v1.2) Pridėta funkcija atrinkti pasirinktą žodį pagal eiliškumą.
+* [v1.2.1](https://github.com/gustaz/StringAndAssociativeContainers/releases/tag/v1.2.1) Padaryta, jog vieną kartą pasikartoję žodžiai nebėra išrašomi.
